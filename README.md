@@ -45,8 +45,8 @@
 
 <div align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://www.instagram.com/pedrospenques/?next=%2F
-Highlights" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a target="_blank" href="https://www.instagram.com/pedrospenques/?next=%2F
+Highlights"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
 </div>
 
