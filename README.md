@@ -33,23 +33,6 @@
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrospenques&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrospenques&layout=compact&theme=tokyonight" height="150"/>
-</div>
-
----
-
-### 🔥 Streak de commits
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pedrospenques&theme=tokyonight" height="150"/>
-</div>
-
----
-
 ### 👀 Visitas no perfil
 
 <div align="center">
