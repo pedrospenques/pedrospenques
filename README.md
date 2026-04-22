@@ -4,12 +4,6 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=44&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=radical"  />
-</div>
-
-###
-
 <p align="left">Em constante evolução, construindo soluções e aprendendo todos os dias.</p>
 
 ###
