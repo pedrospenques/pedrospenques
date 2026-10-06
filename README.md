@@ -28,7 +28,7 @@
 ### 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,postgres,vscode,codex,chatgpt" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,postgres," />
 </div>
 
 ---
