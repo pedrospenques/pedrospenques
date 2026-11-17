@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Brasil-009c3b?style=flat-square" alt="Brasil" />
-  <img src="https://img.shields.io/badge/aprendendo-todo%20dia-ffdf00?style=flat-square" alt="aprendendo todo dia" />
 </p>
 
 ---
@@ -34,7 +33,7 @@ JavaScript, TypeScript, HTML, CSS, Python... Em hardware: ESP32 (C/C++ e Arduino
 
 ## Stats
 
-<p> <img src="https://img.shields.io/github/followers/pedrospenques?label=seguidores&style=for-the-badge&color=333" alt="seguidores" /> <img src="https://img.shields.io/github/stars/pedrospenques?affiliations=OWNER&label=estrelas&style=for-the-badge&color=333" alt="estrelas" /> <img src="https://komarev.com/ghpvc/?username=pedrospenques&label=visitas&style=for-the-badge&color=333" alt="visitas" /> </p> <p> <img src="https://streak-stats.demolab.com?user=pedrospenques&hide_border=true&background=00000000" alt="streak" /> </p> <p> <img src="https://ghchart.rshah.org/pedrospenques" alt="contribuições" /> </p>
+<p> <img src="https://img.shields.io/github/followers/pedrospenques?label=seguidores&style=for-the-badge&color=333333" alt="seguidores" /> <img src="https://komarev.com/ghpvc/?username=pedrospenques&label=visitas&style=for-the-badge&color=333333" alt="visitas" /> </p> <p> <img src="https://streak-stats.demolab.com?user=pedrospenques&hide_border=true&background=00000000&stroke=8b949e&ring=ff8c00&fire=ff8c00&currStreakNum=ff8c00&sideNums=ff8c00&currStreakLabel=ff8c00&sideLabels=8b949e&dates=8b949e" alt="streak" /> </p> <p> <img src="https://ghchart.rshah.org/pedrospenques" alt="contribuições" /> </p>
 ## Contato
 
 <p>
