@@ -31,9 +31,6 @@ JavaScript, TypeScript, HTML, CSS, Python... Em hardware: ESP32 (C/C++ e Arduino
 - **Launcher próprio** pra central multimídia Android do carro.
 - **Entre outros :)**
 
-## Stats
-
-<p> <img src="https://img.shields.io/github/followers/pedrospenques?label=seguidores&style=for-the-badge&color=333333" alt="seguidores" /> <img src="https://komarev.com/ghpvc/?username=pedrospenques&label=visitas&style=for-the-badge&color=333333" alt="visitas" /> </p> <p> <img src="https://streak-stats.demolab.com?user=pedrospenques&hide_border=true&background=00000000&stroke=8b949e&ring=ff8c00&fire=ff8c00&currStreakNum=ff8c00&sideNums=ff8c00&currStreakLabel=ff8c00&sideLabels=8b949e&dates=8b949e" alt="streak" /> </p> <p> <img src="https://ghchart.rshah.org/pedrospenques" alt="contribuições" /> </p>
 ## Contato
 
 <p>
