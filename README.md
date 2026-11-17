@@ -21,13 +21,11 @@ JavaScript, TypeScript, HTML, CSS, Python... Em hardware: ESP32 (C/C++ e Arduino
 
 ## O que ando fazendo
 
-- **SysproBR**: ERP pra associações e cooperativas, com um assistente (chatbot) embutido que responde sobre o sistema.
-- **AgroBR**: refazendo o sistema de gestão rural no padrão do SysproBR (back, front e banco).
-- **AlphaBR**: site e landing page de vendas do sistema.
+- **SysproBR** **AgroBR** **AlphaBR**
 - **Assistente de voz com ESP32**: chamar a IA e disparar funções falando, sem encostar em nada.
 - **Stream deck DIY**: ESP32 com tela touch ligado ao PC (Spotify, clima, knobs de volume).
 - **Servidor de IA caseiro**: PC montado do zero pra rodar Ollama e hospedar meus projetos.
-- **Impressão 3D**: personagens, suportes de placa e maquetes de arquitetura em escala.
+- **Impressão 3D**: personagens, suportes...
 - **Launcher próprio** pra central multimídia Android do carro.
 - **Entre outros :)**
 
