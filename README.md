@@ -21,7 +21,7 @@ JavaScript, TypeScript, HTML, CSS, Python... Em hardware: ESP32 (C/C++ e Arduino
 
 ## O que ando fazendo
 
-- **SysproBR** **AgroBR** **AlphaBR**
+- **SysproBR**, **AgroBR** e **AlphaBR**.
 - **Assistente de voz com ESP32**: chamar a IA e disparar funções falando, sem encostar em nada.
 - **Stream deck DIY**: ESP32 com tela touch ligado ao PC (Spotify, clima, knobs de volume).
 - **Servidor de IA caseiro**: PC montado do zero pra rodar Ollama e hospedar meus projetos.
