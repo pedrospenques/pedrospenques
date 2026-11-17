@@ -1,11 +1,6 @@
 <h1 align="center">Pedro Schmitz Penques</h1>
 
 <p align="center">
-  Dev do Brasil que gosta de ver código virar coisa de verdade:<br>
-  sistema rodando, placa piscando, peça saindo da impressora 3D.
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Brasil-009c3b?style=flat-square" alt="Brasil" />
 </p>
 
