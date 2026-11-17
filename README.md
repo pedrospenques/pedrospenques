@@ -12,17 +12,13 @@
 
 ---
 
-## Quem sou
-
-Programo de tudo um pouco, do site ao microcontrolador. Gosto de construir ferramenta que resolve problema real: ERP pra associação, sistema de gestão rural, assistente de voz, painel de controle pro PC. Quando o software cansa, vou pro hardware e pra impressora 3D.
-
 ## Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,react,git,linux,arduino&perline=10" alt="stack" />
 </p>
 
-JavaScript, TypeScript, HTML, CSS, Python e o que mais o projeto pedir. Em hardware: ESP32 (C/C++ e Arduino).
+JavaScript, TypeScript, HTML, CSS, Python... Em hardware: ESP32 (C/C++ e Arduino).
 
 ## O que ando fazendo
 
@@ -34,17 +30,11 @@ JavaScript, TypeScript, HTML, CSS, Python e o que mais o projeto pedir. Em hardw
 - **Servidor de IA caseiro**: PC montado do zero pra rodar Ollama e hospedar meus projetos.
 - **Impressão 3D**: personagens, suportes de placa e maquetes de arquitetura em escala.
 - **Launcher próprio** pra central multimídia Android do carro.
-- **E outros :)**
-
-## Projetos em destaque
+- **Entre outros :)**
 
 ## Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pedrospenques&show_icons=true&theme=transparent&hide_border=true" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrospenques&layout=compact&theme=transparent&hide_border=true" alt="linguagens" />
-</p>
-
+<p> <img src="https://img.shields.io/github/followers/pedrospenques?label=seguidores&style=for-the-badge&color=333" alt="seguidores" /> <img src="https://img.shields.io/github/stars/pedrospenques?affiliations=OWNER&label=estrelas&style=for-the-badge&color=333" alt="estrelas" /> <img src="https://komarev.com/ghpvc/?username=pedrospenques&label=visitas&style=for-the-badge&color=333" alt="visitas" /> </p> <p> <img src="https://streak-stats.demolab.com?user=pedrospenques&hide_border=true&background=00000000" alt="streak" /> </p> <p> <img src="https://ghchart.rshah.org/pedrospenques" alt="contribuições" /> </p>
 ## Contato
 
 <p>
